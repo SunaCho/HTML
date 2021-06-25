@@ -1,2 +1,2 @@
 # Java
-Repository for studying Java.
+백준 @rougefleur (❤️)
