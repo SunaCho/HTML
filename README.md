@@ -1,2 +1,4 @@
-# Java
-백준 @rougefleur (❤️)
+# HTML
+
+Front-end developing
+HTML & CSS & Javascript
